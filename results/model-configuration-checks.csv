@@ -1,0 +1,16 @@
+check,passed
+fan_initial_false,1
+state_period,1
+temperature_period,1
+sensor_period,1
+temperature_double,1
+sensor_boolean,1
+on_comparison,1
+off_comparison,1
+final_fan_feedback,1
+fault_has_no_memory,1
+temperature_parameter,1
+off_parameter,1
+control_parameter,1
+solver_step,1
+first_evaluation,1

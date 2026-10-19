@@ -1,0 +1,24 @@
+test_id,status,detail
+TC-001,PASS,
+TC-002,PASS,
+TC-003,PASS,
+TC-004,PASS,
+TC-005,PASS,
+TC-006,PASS,
+TC-007,PASS,
+TC-008,PASS,
+TC-009,PASS,
+TC-010,PASS,
+TC-011,FAIL,"t=0: fan_cmd expected 1, actual 0"
+TC-012,FAIL,"t=0.1: fan_cmd expected 1, actual 0"
+TC-013,FAIL,"t=0.1: fan_cmd expected 1, actual 0"
+TC-014,PASS,
+TC-015,FAIL,"t=0: fan_cmd expected 1, actual 0"
+TC-016,FAIL,"t=0: fan_cmd expected 1, actual 0"
+TC-017,FAIL,"t=0: fan_cmd expected 1, actual 0"
+TC-018,PASS,
+TC-019,PASS,
+TC-020,PASS,
+TC-021,FAIL,"t=0.1: fan_cmd expected 1, actual 0"
+TC-022,FAIL,"t=0: fan_cmd expected 1, actual 0"
+TC-023,PASS,
