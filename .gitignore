@@ -1,0 +1,32 @@
+# MATLAB / Simulink generated files
+slprj/
+codegen/
+*.slxc
+*.asv
+*.m~
+*.autosave
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local environment
+.env
+.env.*
+!.env.example
+
+# OS / editor local files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary output (retain curated results/)
+tmp/
+temp/
+*.log
